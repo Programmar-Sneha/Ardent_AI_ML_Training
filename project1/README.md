@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 *Your Name*
-- GitHub: [@programmar-Sneha](https://github.com/Programmer-Sneha)
+- GitHub: [@Programmar-Sneha](https://github.com/Programmar-Sneha)
 - LinkedIn: [Sneha Bhunia](https://linkedin.com/in/Sneha Bhunia)
 
 ---
