@@ -163,7 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 *Your Name*
 - GitHub: [@Programmar-Sneha](https://github.com/Programmar-Sneha)
-- LinkedIn: [Programmar Sneha](https://linkedin.com/in/Programmer Sneha)
+- LinkedIn: [Sneha Bhunia](https://linkedin.com/in/Programmar-Sneha)
 
 ---
 
