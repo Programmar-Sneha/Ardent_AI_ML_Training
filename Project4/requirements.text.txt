@@ -1,0 +1,12 @@
+How to install from terminal?
+
+pip install opencv-python
+
+
+
+
+How to run?
+
+python3 face_detection.py
+
+
