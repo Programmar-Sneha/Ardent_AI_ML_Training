@@ -7,9 +7,10 @@ A real-time facial emotion recognition system built with Python, OpenCV, and a d
 ## 📸 Demo
 
 > Detects faces in real-time and classifies emotions directly on the video feed.
+![istockphoto-1496615445-612x612 jpg](https://github.com/user-attachments/assets/2d1a8053-2fbd-4f97-ad89-de7b59e258d0)
 
 ```
-[Webcam Feed] → [Face Detection] → [Emotion Classification] → [Annotated Output]
+
 ```
 
 ---
