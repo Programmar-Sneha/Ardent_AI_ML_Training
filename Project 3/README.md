@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Student Name — B.Sc (CS) Portfolio
+# 👋 Hi, i'm Sneha Bhunia— B.Sc (CS) Portfolio
 
 > **2nd Year · 4th Semester · Haldia Institute of Management, Haldia, India**  
 > Building with Python, Data Analysis & Machine Learning 🚀
